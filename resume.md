@@ -45,8 +45,13 @@ etc.
 
 ## Experience
 
-- 삼성서울병원 2차 고도화
-- 
+- 2014.04 ~ 2015.08 삼성서울병원 2차 고도화 : Front-end PL / HTML, CSS, JS  
+영혼까지 태워버린 대규모 프로젝트. [http://samsunghospital.com]
+  
+- 2014.03 노루표페인트 : Front-end PL / HTML, CSS, JS  
+아이패드 전용 터치 웹앱인데 IE8도 맞추기 위해 피똥쌈. [http://www.noroopaint.com/paintguide/main.asp]
+
+
 
 
 ...
