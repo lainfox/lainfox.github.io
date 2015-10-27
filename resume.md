@@ -34,7 +34,6 @@ DB :
 - mongoDB
 - redis   
 
-
 Server : 
 - Ubuntu 12.04, 14.04, centOS  
 
@@ -77,6 +76,7 @@ etc.
 ### As Freelancer
 
 - 2014.06 오로치 뉴스 공유 : Full-stack / Python, HTML, CSS, JS  
+- 2013.07 QnAcode 개발자 커뮤니티 : Full-stack / PHP
 - 2013.02 리그오브레전드 전적검색 : Full-stack / NodeJS, JAVA, PHP, HTML, CSS, JS  
 리그오브레전드 API 가 없었던 시절 게임 클라이언트를 디컴파일 해서 코드 분석 후 제작
 - 2012.07 위시태그 : Front-end PL / HTML, CSS, JS
@@ -92,11 +92,14 @@ etc.
 
 
 ### As Teacher
-- 2006.03 서울송파 M&S 학원 : 중등 수학 + 웹사이트 제작
-- 2005.03 경기도 남양주 학원 : 중등 수학 학원 강사, 전과목 + 웹사이트 제작
+- 2006.03 서울송파 M&S 학원 : 웹사이트 제작 강사
+- 2005.03 경기도 남양주 학원 : 중등 수학 강사, 웹사이트 제작 강사
 
+## Education
+1999 ~ 2010 한국외국어 대학교 컴퓨터 공학
 
-
+## Certification
+2014.06.05 정보처리기사 
 
 
 
