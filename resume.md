@@ -80,9 +80,6 @@ etc.
 
 ### As Freelancer
 
-- 2014.06 오로치 뉴스 공유 : Full-stack / Python, HTML, CSS, JS  
-- 2013.02 리그오브레전드 전적검색 : Full-stack / NodeJS, JAVA, PHP, HTML, CSS, JS  
-리그오브레전드 API 가 없었던 시절 게임 클라이언트를 디컴파일 해서 코드 분석 후 제작
 - 2012.07 위시태그 : Front-end PL / HTML, CSS, JS
 - 2009.07 11번가 기획전 : Front-end / HTML, CSS, JS
 - 2009.02 대보그룹 : Front-end / HTML, CSS, JS
@@ -101,8 +98,11 @@ etc.
 
 ### ETC
 
+- 2014.06 오로치 뉴스 공유 : Full-stack / Python, HTML, CSS, JS  
 - 2013.07 QnAcode 개발자 커뮤니티 : Full-stack / PHP  
 웹개발자를 위한 Q&A 커뮤니티. [http://qnacode.com](http://qnacode.com)
+- 2013.02 리그오브레전드 전적검색 : Full-stack / NodeJS, JAVA, PHP, HTML, CSS, JS  
+리그오브레전드 API 가 없었던 시절 게임 클라이언트를 디컴파일 해서 코드 분석 후 제작
 - 2001.05 서울지방경찰청 : Full-stack / ASP, HTML, CSS, JS  
 의경 신분으로 서울청 웹사이트 전담. 이때부터 본격적인 웹 세상에 들어옴. 개인적으로 ASP에 대한 반감은 PHP를 공부하게 되었고 오픈소스로 GT Book 을 만들어 배포.
 
