@@ -128,6 +128,3 @@ etc.
 - Discourse 회원
 - CSS Design Korea 회원
 
-
-...
-
