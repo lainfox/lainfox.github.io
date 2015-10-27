@@ -122,9 +122,9 @@ etc.
 
 
 ## Affiliation
+- QnaCode 마스터
 - 그누보드 회원
 - 킴스큐 회원
-- QnaCode 마스터
 - Discourse 회원
 - CSS Design Korea 회원
 
