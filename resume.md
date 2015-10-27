@@ -14,7 +14,9 @@ lainfox@gmail.com / qnacode.com
 
 
 ## Technical Skills
+
 Front-end : 
+
 - HTML5 +
 - CSS3 +
 - JS +
@@ -23,6 +25,7 @@ Front-end :
  
 
 Back-end : 
+
 - PHP +
 - Python + 
 - NodeJS +
@@ -30,11 +33,13 @@ Back-end :
 - Ruby (rails)
 
 DB : 
+
 - mysql, postgresql
 - mongoDB
 - redis   
 
 Server : 
+
 - Ubuntu 12.04, 14.04, centOS  
 
 etc.
@@ -44,6 +49,7 @@ etc.
 
 ## Experience
 ### At Company
+
 - 2014.05 ~ 2015.08 삼성서울병원 2차 고도화 : Front-end PL / HTML, CSS, JS  
 영혼까지 태워버린 대규모 프로젝트. [http://samsunghospital.com]
   
