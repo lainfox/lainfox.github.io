@@ -4,7 +4,7 @@ title: About Lainfox
 permalink: /about/
 ---
 
-> HTML5, CSS3, JS 테크닉, 웹접근성, 웹표준, webRTC에 관심이 많습니다.
+> HTML5, CSS3, JS 테크닉, ES6, 웹접근성, 웹표준, webRTC, node.js 등에 관심이 많습니다.
 
 ## 누구냐
 
