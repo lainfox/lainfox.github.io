@@ -114,10 +114,12 @@ ES6 에서 사용하는 변수 선언. ES5 에서 사용하던 var 외에 const�
 
 ----
 Ref.  
+
 - http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
 
 
 Resource.
+
 - https://babeljs.io
 - https://github.com/google/traceur-compiler
 - https://github.com/paulmillr/es6-shim
