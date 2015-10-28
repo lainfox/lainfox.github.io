@@ -21,7 +21,7 @@ Front-end :
 - CSS3 +
 - JS +
 - SEO +
-- jQuery + , Bootstrap +, less, jade, ReactJS
+- jQuery + , Bootstrap +, ES6, less, jade, ReactJS
  
 
 Back-end : 
@@ -43,6 +43,7 @@ Server :
 - Ubuntu 12.04, 14.04, centOS  
 
 etc.
+- browserify, gulp, grunt, bower
 - codeigniter, django, flask, rails, play!, AIR crack, hapijs, celery, vanilla cache, cloud flare
 
 ( 최근에는 Nodejs + Hapijs + React + Flux 에 집중하는 중 )
