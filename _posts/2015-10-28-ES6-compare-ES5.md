@@ -101,6 +101,17 @@ ES6 에서 사용하는 변수 선언. ES5 에서 사용하던 var 외에 const�
 또한 익숙한 클래스 상속 형태.
 
 
+## Map ( Fat arrow function )
+
+    // ES6
+    [1, 2, 3].map(n => n * 2); // [2, 4, 6]
+    
+    // ES5
+    [1, 2, 3].map(function(n) { return n * 2; }); // [2, 4, 6]
+
+백엔드 언어에서 사용하던 것과 유사하네요.
+
+
 ----
 Ref.  
 - http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/
