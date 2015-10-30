@@ -37,10 +37,13 @@ react-router 를 사용하기 위해 가볍게 react-router를 인스톨.
     
     npm WARN EPEERINVALID react-router@0.13.4 requires a peer of react@0.13.x but none was installed.
     
+해결하자.
 react-router 최신 버전으로 설치 및 분리된 history 도 설치
   
     npm install --save history react-router@latest
     
+@latest로 깔끔하게 설치 되었다.
+
     react-todo@1.4.0 /Users/lainfox/Workspace/node/react-todo
     ├─┬ hapi@11.0.2
     │ └─┬ subtext@2.0.0
