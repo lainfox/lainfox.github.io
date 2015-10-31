@@ -41,6 +41,7 @@ DB :
 Server : 
 
 - Ubuntu 12.04, 14.04, centOS  
+- AWS, google, Digital Ocean, Vultr cloud
 
 etc.
 - browserify, gulp, grunt, bower
