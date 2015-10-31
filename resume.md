@@ -26,9 +26,9 @@ Front-end :
 
 Back-end : 
 
-- PHP +
-- Python + 
-- NodeJS +
+- NodeJS + (express, hapi)
+- PHP + ( codeigniter )
+- Python + (django, flask)
 - Java (play!)
 - Ruby (rails)
 
