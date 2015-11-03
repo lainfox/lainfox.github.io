@@ -12,6 +12,12 @@ lainfox@gmail.com / lainfox.github.io / qnacode.com
 ## Summary
 1999년 애니메이션과 미연시 게임 정보를 온라인에 저장하기 위해 웹사이트를 시작. 2001년 부터 지금까지 쉬지않고 코딩하고 있음. 집에서 와이프와 애들 눈치 보면서 새벽 코딩을 즐김. 새로운 문제를 만나고 해결해 나가는 것에서 카타르시스를 느끼는 인간.
 
+I don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Javascript, CSS3, HTML5, NodeJS on Hapi, PHP on CodeIgniter, Python on Django, Ruby on Rails. I'm pretty devoted to making the web a better place. This means showing empathy. This means lightweight, responsive websites that are mobile first. 
+
+Nowadays, I’m interested in WebRTC, ES6, SEO, Nodejs, Hapijs, React, and Flux. 
+I feel pleasure in solving the problem and since 1999 year and has continued to coding until now. 
+
+
 
 ## Technical Skills
 
