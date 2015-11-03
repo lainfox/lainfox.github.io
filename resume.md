@@ -10,7 +10,20 @@ Full Stack Web Developers
 lainfox@gmail.com / lainfox.github.io / qnacode.com
 
 ## Summary
-1999년 애니메이션과 미연시 게임 정보를 온라인에 저장하기 위해 웹사이트를 시작. 2001년 부터 지금까지 쉬지않고 코딩하고 있음. 집에서 와이프와 애들 눈치 보면서 새벽 코딩을 즐김. 새로운 문제를 만나고 해결해 나가는 것에서 카타르시스를 느끼는 인간.
+
+고등학교 시절에는 만화가를 꿈꾸며 그림을 그리고 연극부 활동을 겸했었고 대학교 시절 만화동아리에서 활동하며 스케이트보드를 즐겨 탔으며 밴드에서 노래를 했었습니다. 만화 그리기에 빠져 만화가의 꿈을 꾸기도 했었고 연극 선후배들과 함께 희극인이 되고 싶었던 적도 있었습니다. 지금은 개발을 통해 멋진 서비스를 만들어 세상의 많은 사람과 소통하고 싶습니다.
+다양한 개발언어와 프레임웍은 어느정도 파악할때까지 한번씩 손을 대지 않고는 못 견디는 성격이며
+노래부르며 코딩하는 것을 즐기는 편이고 문제를 만들어 스스로에게 던지고 해결해 나가는 것에서 카타르시스를 느낍니다.
+
+99년 처음 웹을 만들고 의무경찰 생활에서 서울지방경찰청 웹사이트 구축, 운영하며 꿈을 처음 실행하기 시작했습니다. 웹이라는 분야는 사용자와의 접점이 되는 프론트엔드와 백엔드를 온전히 이해해고 구현해야만 좋은 웹 서비스를 할 수 있다고 믿으며 서버 구축 및 관리 부터 백엔드의 java, php, python, nodejs 언어와 프론트 엔드의 HTML5, CSS3, JavaScript 를 모두 배우기 위해 밤잠 설쳐가며 항상 공부해 왔습니다. 풍부한 개발지식과 프론트엔드 기술의 섭렵으로 웹서비스 전반에 대해 개발자와 퍼블리셔들의 많은 문제를 해결해 주는 역할을 해왔습니다. 
+최근에는 React와 Flux, 그리고 Hapi.js를 배우고 있습니다. 또한 webRTC, ES6과 더불어 백엔드와 프론트엔드의 조화가 이루어지는 isomorphic, universal에 대해 전반적으로 관심을 가지고 있습니다. 다른 언어보다 특히 Javascript를 좋아하고 HTML5, CSS3, ES6, 웹접근성, 웹표준, webRTC, node.js등에 관심이 많습니다.
+
+
+백발의 노인이 노트북을 가지고 어디서든 코딩하는 모습은 먼 훗날 저의 모습일 것이라 꿈꾸고 있습니다.
+
+
+
+
 
 I don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Javascript, CSS3, HTML5, NodeJS on Hapi, PHP on CodeIgniter, Python on Django, Ruby on Rails. I'm pretty devoted to making the web a better place. This means showing empathy. This means lightweight, responsive websites that are mobile first. 
 
