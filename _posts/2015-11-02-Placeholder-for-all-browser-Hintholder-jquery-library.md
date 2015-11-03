@@ -1,8 +1,9 @@
+
 ---
 layout:     post
-title:      Hintholder : 모든 브라우저를 위한 placeholder
-date:       2015-11-02
-summary:    크롬, 파폭, 사파리 등 모던 브라우저부터 구버전 IE 까지 사용할 수 있는 placeholder
+title:      React, react-router, history npm 설치시 버전 충돌 
+date:       2015-10-30
+summary:    react-router가 react와 버전이 맞지 않을 때 해결
 categories: dev
 ---
 구버전 IE에서 placeholder를 반드시 사용해야 하는 경우가 있어서 만들었던 jQuery용 placeholder 라이브러리.
