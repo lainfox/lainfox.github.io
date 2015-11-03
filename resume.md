@@ -84,7 +84,6 @@ etc.
 
 - 2012.07 위시태그 : Front-end PL / HTML, CSS, JS
 - 2009.07 11번가 기획전 : Front-end / HTML, CSS, JS
-- 2009.02 대보그룹 : Front-end / HTML, CSS, JS
 - 2008.12 트위터 페이스북 매쉬업  : Full-stack / Ruby, HTML, CSS, JS
 - 2008.08 스크랩 북마클릿 : Front-end / JS
 - 2008.03 이토렌트 토렌트 메타 : Full-stack / PHP, HTML, CSS, JS
