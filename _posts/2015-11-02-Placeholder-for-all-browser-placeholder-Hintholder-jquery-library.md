@@ -7,7 +7,6 @@ categories: dev
 ---
 
 
-
 구버전 IE에서 placeholder를 반드시 사용해야 하는 경우가 있어서 만들었던 jQuery용 placeholder 라이브러리.
 
 [https://github.com/lainfox/Hintholder](https://github.com/lainfox/Hintholder)
