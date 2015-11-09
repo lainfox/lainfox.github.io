@@ -9,39 +9,37 @@ categories: dev
 최근 react와 flux를 공부하면서 이전에는 몰랐었던 개념에 대해 알게 되었다.  
 Isomorphic과 Universal.
 
-Javascript로 백엔드에서 멋지게 그리고 빠르게 처리하는 node.js는 이미 다들 익숙히 들어봤을 것이다.  
-javascript를 사용하는 개발자에겐 따로 java, c계열, php, python, ruby 등이 아닌 익숙한 언어를 사용해 서버를 구축한다는 매력에 빠질 수 밖에 없는 언어.
-초창기 node.js의 express 프레임웍이 널리 알려지기 전 개발했던 입장에서는 소소한 메모리 누수와 미친듯한 콜백 지옥에서 헤매는 일이 많았었.. 쿨럭
+Javascript로 백엔드에서 멋지게 그리고 빠르게 처리하는 node.js는 이미 다들 익숙히 들어봤을 것이다.  javascript를 사용하는 개발자에겐 따로 java, c계열, php, python, ruby 등이 아닌 익숙한 언어를 사용해 서버를 구축한다는 매력에 빠질 수 밖에 없는 언어. 하지만 node.js의 콜백 지옥에 빠진 경험은 정말 괴로웠었다.. 쿨럭
 
 여하튼 최근 다시 node.js를 손대면서, 아니 정확히는 react.js를 접하고 찬양하기 시작하면서 알게 된 용어가 있다.  Isomorphic과 Universal. 도대체 이녀석은 무엇일까.
 
 ## Isomorphic
 
-![isomorphic](https://cloud.githubusercontent.com/assets/92839/8012112/8fa3a59e-0b73-11e5-887e-98ae8dcb5705.png)
-이서모픽
+![isomorphic](https://cloud.githubusercontent.com/assets/92839/8012112/8fa3a59e-0b73-11e5-887e-98ae8dcb5705.png)  
+*이서모픽*
 
 server 와 client 에서 똑같이 실행.
 좋은 예로는 jQuery를 들 수 있겠다. client side의 jQuery와 server side node.js에서 jQuery를 import 해 사용할때 동일한 API를 제공한다. 
 오오~ 완전히 똑같진 않지만 백엔드와 프론트엔드에서 똑같은 API를 사용하고 같은 결과를 기대할 수 있다.  
 
 React를 열심히 공부하고 있으면서도 가장 많이 느끼는 것이 이 부분이다.   
-node.js에서 사용하는 react 컴포넌트는 프론트엔드에서 그대로 재사용을 할 수 있다는 것!
-정말 멋진 부분이 아닐 수 없다.
+node.js에서 사용하는 react 컴포넌트는 프론트엔드에서 그대로 재사용을 할 수 있다는 것! 정말 멋진 부분이 아닐 수 없다.
 
 ## Universal 
 
-![universal](https://cloud.githubusercontent.com/assets/92839/8012117/983bca24-0b73-11e5-8c8b-0487711d5112.png)
-유니버설 ( 좀 더 정확히는? 유너버설 )
+![universal](https://cloud.githubusercontent.com/assets/92839/8012117/983bca24-0b73-11e5-8c8b-0487711d5112.png)  
+*유니버설 ( 좀 더 정확히는 유너버설 )*
 
-Javascript가 서버와 브라우저 뿐만 아니라 각종 디바이스 등에서도 동작하기 때문에 Isomorphic 보다는 Universal 이라고 부르자는 움직임도 있다.  ( https://github.com/facebook/react/pull/4041 )
+Javascript가 서버와 브라우저 뿐만 아니라 각종 디바이스 등에서도 동작하기 때문에 Isomorphic 보다는 Universal 이라고 부르자는 움직임도 있다.  (https://github.com/facebook/react/pull/4041)[https://github.com/facebook/react/pull/4041]
 
 
 자, 그럼 좀 더 디테일 한 상황을 보자.
 
-몇년 전 모바일 전용 sencha 프레임웍을 할 때 가장 불만이었던 것은 Front-end 마크업 부분에 달랑 `<div id="app"></div>` 정도 밖에 남지 않는 것이었다.  
+몇 년 전 모바일 전용 sencha 프레임웍을 할 때 가장 불만이었던 것은 Front-end 마크업 부분에 달랑 `<div id="app"></div>` 정도 밖에 남지 않는 것이었다.  
 프론트엔드 개발로 밥벌이를 하고 있는 상황에서는 SEO를 전혀 맞출 수 없는 것이 여간 불만이 아닐 수 없었다.
 
-최근 react를 node.js 에서 사용하면서도 처음엔 이런 불만이 있었다. 아니 정확히는 프론트에서도 react 컴포넌트를 사용할때도 비어있는 HTML이 불만이었다. ( HTML을 사랑한다 )  
+최근 react를 node.js 에서 사용하면서도 처음엔 이런 불만이 있었다. 아니 정확히는 프론트에서도 react 컴포넌트를  사용할때에도 비어있는 HTML이 불만이었다. ( HTML을 사랑한다 )  
+
 그러다가 isomorphic, universal에 대해 알게 되고 나서는 이런것들을 해결 할 수 있었다.
 
 ## SEO 구현
@@ -70,7 +68,7 @@ react, react-route를 이용한다면 리스트에서 AJAX로 보여주는 방�
     react-route : /bbs/list
                   /bbs/77
                    
-이라고 가정하고 
+이라고 가정하고 ( 실제로는 route는 `<Route path="/thread" component={ ThreadBox } />` 같은 형태로 정의한다 )
 
 1. list 에서 77번 글을 사용자가 클릭해서 보려고 할때   
 URI는 /bbs/list 에서 /bbs/77 로 history를 이용해 변경하고  
