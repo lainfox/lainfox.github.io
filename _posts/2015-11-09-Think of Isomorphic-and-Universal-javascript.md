@@ -30,7 +30,7 @@ node.js에서 사용하는 react 컴포넌트는 프론트엔드에서 그대로
 ![universal](https://cloud.githubusercontent.com/assets/92839/8012117/983bca24-0b73-11e5-8c8b-0487711d5112.png)  
 *유니버설 ( 좀 더 정확히는 유너버설 )*
 
-Javascript가 서버와 브라우저 뿐만 아니라 각종 디바이스 등에서도 동작하기 때문에 Isomorphic 보다는 Universal 이라고 부르자는 움직임도 있다.  (https://github.com/facebook/react/pull/4041)[https://github.com/facebook/react/pull/4041]
+Javascript가 서버와 브라우저 뿐만 아니라 각종 디바이스 등에서도 동작하기 때문에 Isomorphic 보다는 Universal 이라고 부르자는 움직임도 있다.  [https://github.com/facebook/react/pull/4041](https://github.com/facebook/react/pull/4041)
 
 
 자, 그럼 좀 더 디테일 한 상황을 보자.
@@ -68,7 +68,8 @@ react, react-route를 이용한다면 리스트에서 AJAX로 보여주는 방�
     react-route : /bbs/list
                   /bbs/77
                    
-이라고 가정하고 ( 실제로는 route는 `<Route path="/thread" component={ ThreadBox } />` 같은 형태로 정의한다 )
+이라고 가정하고  
+( 실제로는 route는 `<Route path="/thread" component={ ThreadBox } />` 같은 형태로 정의한다 )
 
 1. list 에서 77번 글을 사용자가 클릭해서 보려고 할때   
 URI는 /bbs/list 에서 /bbs/77 로 history를 이용해 변경하고  
