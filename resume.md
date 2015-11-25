@@ -75,7 +75,7 @@ etc.
 - 2014.05 ~ 2015.08 삼성서울병원 2차 고도화 : Front-end PL / HTML, CSS, JS  
 영혼까지 태워버린 대규모 프로젝트. [http://samsunghospital.com](http://samsunghospital.com)
 - 2014.03 노루표페인트 : Front-end PL / HTML5, CSS3, JS  
-아이패드 전용 터치 웹앱인데 IE8도 맞추기 위해 피똥쌈. [http://www.noroopaint.com/paintguide/main.asp](http://www.noroopaint.com/paintguide/main.asp)
+아이패드 전용 터치 웹앱인데 IE8도 맞추기 위한 노력이 필요했음. [http://www.noroopaint.com/paintguide/main.asp](http://www.noroopaint.com/paintguide/main.asp)
 - 2014.01 피해 복구를 위한 원스톱 SOC : Front-end PL / HTML, CSS, JS
 - 2013.12 공공데이터 분쟁 조정 위원회 : Front-end PL / HTML, CSS, JS
 - 2013.10 SK Tgate : Front-end PL / HTML, CSS, JS
