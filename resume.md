@@ -15,20 +15,12 @@ lainfox@gmail.com / lainfox.github.io / qnacode.com
 다양한 개발언어와 프레임웍은 어느정도 파악할때까지 한번씩 손을 대지 않고는 못 견디는 성격이며
 노래부르며 코딩하는 것을 즐기는 편이고 문제를 만들어 스스로에게 던지고 해결해 나가는 것에서 카타르시스를 느낍니다.
 
-99년 처음 웹을 만들고 의무경찰 생활에서 서울지방경찰청 웹사이트 구축, 운영하며 꿈을 처음 실행하기 시작했습니다. 웹이라는 분야는 사용자와의 접점이 되는 프론트엔드와 백엔드를 온전히 이해해고 구현해야만 좋은 웹 서비스를 할 수 있다고 믿으며 서버 구축 및 관리 부터 백엔드의 java, php, python, nodejs 언어와 프론트 엔드의 HTML5, CSS3, JavaScript 를 모두 배우기 위해 밤잠 설쳐가며 항상 공부해 왔습니다. 풍부한 개발지식과 프론트엔드 기술의 섭렵으로 웹서비스 전반에 대해 개발자와 퍼블리셔들의 많은 문제를 해결해 주는 역할을 해왔습니다. 
-최근에는 React와 Flux, 그리고 Hapi.js를 배우고 있습니다. 또한 webRTC, ES6과 더불어 백엔드와 프론트엔드의 조화가 이루어지는 isomorphic, universal에 대해 전반적으로 관심을 가지고 있습니다. 다른 언어보다 특히 Javascript를 좋아하고 HTML5, CSS3, ES6, 웹접근성, 웹표준, webRTC, node.js등에 관심이 많습니다.
-
+99년 처음 웹을 만들고 의무경찰 생활에서 서울지방경찰청 웹사이트 구축, 운영하며 꿈을 처음 실행하기 시작했습니다. 웹이라는 분야는 사용자와의 접점이 되는 프론트엔드와 데이터 처리를 하는 백엔드를 온전히 이해하고 구현해야만 좋은 웹 서비스를 할 수 있다고 믿으며 서버 구축 및 관리 부터 백엔드의 java, php, python, nodejs 언어와 프론트 엔드의 HTML5, CSS3, JavaScript 배우는 것을 즐기며 공부해 왔습니다. 
+최근에는 React와 Flux, 그리고 Hapi.js와 재밌게 놀고 있습니다. 또한 webRTC, ES6과 더불어 백엔드와 프론트엔드의 조화가 이루어지는 isomorphic, universal에 대해 전반적으로 관심을 가지고 있습니다. 다른 언어보다 특히 Javascript를 좋아하고 HTML5, CSS3, ES6, 웹접근성, 웹표준, webRTC, node.js등에 관심이 많습니다.
 
 백발의 노인이 노트북을 가지고 어디서든 코딩하는 모습은 먼 훗날 저의 모습일 것이라 꿈꾸고 있습니다.
 
 
-
-
-
-I don't like to limit myself to developing with particular tools or technologies, but I'm most experienced with Javascript, CSS3, HTML5, NodeJS on Hapi, PHP on CodeIgniter, Python on Django, Ruby on Rails. I'm pretty devoted to making the web a better place. This means showing empathy. This means lightweight, responsive websites that are mobile first. 
-
-Nowadays, I’m interested in WebRTC, ES6, SEO, Nodejs, Hapijs, React, and Flux. 
-I feel pleasure in solving the problem and since 1999 year and has continued to coding until now. 
 
 
 
