@@ -1,9 +1,7 @@
-<script>
-  
-  setTimeout(function() {
-    document.location.href ="http://www.weather.gov/";
-  }, 30000)
-
-</script>
-
-<h1 style="color: #FFF">Hello world</h1>
+Main page should be secure/https
+ 
+The iframe below renders an insecure (http) page which does a document.write
+<iframe src="https://www.cracking.com.ar/redir/redir.php?URL=http://unsafe.cracking.com.ar">
+ 
+The HTML code in the iframe is quite simple:
+<script>document.write()</script>
