@@ -10,12 +10,11 @@
   
 <script>
 RClientWindowMessenger.addMessageListener({
-  messageType: 'get-window-location-response',
+  messageType: 'get-minigame-init',
   handlers: (messageType, data) => {
     alert(messageType);
     alert(data);
-
-  })
+  }
 });
 </script>
 </body>
