@@ -6,14 +6,16 @@
   <script src="https://lolstatic-a.akamaihd.net/ci/rclient-window-messenger/0.0.4/index.js"></script>
 </head>
 <body>
-  <div>Hello world!!</div>
+
+<div>Hello world!!</div>
+<div id="result"></div>  
   
 <script>
 RClientWindowMessenger.addMessageListener({
   messageType: 'minigame-auth-message',
   handlers: (messageType, data) => {
-    alert(data.summonerName);
-    alert(data.rank);
+    const resultPanel = document.getElementById('result');
+    resultPanel.innerText(`${data.summonerName} / ${data.rank}`);
   }
 });
 </script>
