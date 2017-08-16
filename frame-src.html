@@ -12,8 +12,8 @@
 RClientWindowMessenger.addMessageListener({
   messageType: 'minigame-auth-message',
   handlers: (messageType, data) => {
-    alert(messageType);
-    alert(data);
+    alert(data.summonerName);
+    alert(data.rank);
   }
 });
 </script>
