@@ -15,14 +15,9 @@ RClientWindowMessenger.addMessageListener({
   messageType: 'minigame-auth-message',
   handlers: (messageType, data) => {
     const resultPanel = document.getElementById('result');
-    resultPanel.innerHTML(`${data.summonerName} / ${data.rank}`);
+    resultPanel.innerText = `${data.summonerName} / ${data.rank}`;
   }
 });
-  
-  
-  
-const resultPanel = document.getElementById('result');
-resultPanel.innerHTML(`helo world`);
 </script>
 </body>
 </html>
